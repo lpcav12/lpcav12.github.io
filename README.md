@@ -7,5 +7,5 @@ i love steph curry
 
 | Player Name | Points |
 | ----------- | ----------- |
-| Steph Curry | 12034 |
-| Jason Tatum | 10203 |
+| Steph Curry | 21183 |
+| Jason Tatum | 9374 |
